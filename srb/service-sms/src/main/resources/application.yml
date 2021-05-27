@@ -51,8 +51,8 @@ logging:
 #阿里云短信
 aliyun:
   sms:
-    region-id: cn-shenzhen
-    key-id: LTAI4GE22ckocpNBfd36zkxJ
-    key-secret: qDFrQ6cxZqc4DwxoWx5K2aosXXj0Go
-    template-code: SMS_202820594
+    region-id: cn-china
+    key-id: 短信服务可不使用
+    key-secret: 使用redis工具获取验证码
+    template-code: SMS_123
     sign-name: 学习验证码使用
