@@ -14,6 +14,6 @@ spring:
 aliyun:
   oss:
     endpoint: oss-cn-beijing.aliyuncs.com
-    keyId: LTAI5tDAkYyD47d7GAZ5Txrx
-    keySecret: MgIATZH6ZMrviQCB1mI2hnmDicvO03
+    keyId: 自行填写阿里云keyId
+    keySecret: 自行填写阿里云keySecret
     bucketName: srb-file-xyf
