@@ -1,8 +1,9 @@
-### 项目简介
+## 项目简介
 
 尚融宝是一个网络借贷信息中介服务平台，为个人投资者、个人融资用户和小微企业提供专业的线上信贷及出借撮合服务。
 
-#### 技术栈
+
+## 技术栈
 Java基础、MySQL数据库
 
 SpringBoot 2.3.4.RELEASE
@@ -23,14 +24,16 @@ Spring Data Redis：Spring项目中访问Redis缓存
 
 Spring Task：定时任务
 
-#### 项目架构
+## 项目架构
 ![尚融宝](https://gitee.com/xyf03/srb/raw/master/srb/image/srb_6.png "项目架构")
 
-####业务流程
+
+## 业务流程
 ![尚融宝](https://gitee.com/xyf03/srb/raw/master/srb/image/srb_7.png "业务流程")
 ![尚融宝](https://gitee.com/xyf03/srb/raw/master/srb/image/srb_8.png "业务流程")
 
-#### 项目预览
+
+## 项目预览
 用户主页
 ![尚融宝](https://gitee.com/xyf03/srb/raw/master/srb/image/srb_3.png "用户主页") 
 后台管理会员列表
